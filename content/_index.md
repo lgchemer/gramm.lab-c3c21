@@ -1,10 +1,10 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
-date: 2019-02-18T12:27:33-06:00
+title: "Granular Micromechanics Research Laboratory"
+subtitle: "Florida International University in Miami, FL"
+description: "Advancing research at the intersection of micromechanics and granular materials. Explore our innovative projects, meet our dedicated team, and discover how we are shaping the future of granular materials research at FIU."
+date: 2026-04-23T12:27:33-06:00
 images:
-  - img/revoir.jpg
+  - img/circuitpython_sample-nyan-pyportal.gif
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
