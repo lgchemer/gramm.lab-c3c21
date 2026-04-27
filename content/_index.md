@@ -6,7 +6,7 @@ date: 2026-04-23T12:27:33-06:00
 images:
   - img/GRAMMR_Logo1.png
 image_left: true
-text_align_left: false
+text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
