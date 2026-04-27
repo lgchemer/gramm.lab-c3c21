@@ -1,5 +1,5 @@
 ---
-title: "Seung Jae Lee"
+title: "Seung Jae Lee, PhD"
 excerpt: "Co-director"
 date: 2026-04-27
 author: "The Granular Mechanics Research Laboratory"
