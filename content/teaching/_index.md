@@ -8,13 +8,13 @@ show_post_date: false
 layout: list
 
 teaching_items:
-  - title: "Course 1"
+  - title: "CGN 5930 - Energy and Variational Methods in Mechanics"
     image: "teaching-1.svg"
     description: "Course 1 is a placeholder teaching entry highlighting a core topic in mechanics, materials, or computational analysis with a short overview of the course focus."
-  - title: "Course 2"
+  - title: "CEG 4012 - Geotechnical Engienering II"
     image: "teaching-2.svg"
     description: "Course 2 is a placeholder teaching entry that can describe course themes, student learning goals, and how the material connects to research and engineering practice."
-  - title: "Course 3"
+  - title: "CGN 4011 - AI-Enabled Computational Techniques in Civil Engineering"
     image: "teaching-3.svg"
     description: "Course 3 is a placeholder teaching entry for advanced or specialized topics, with room for a concise description similar in format to the Facility page."
 ---
