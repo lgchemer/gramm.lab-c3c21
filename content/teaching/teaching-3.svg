@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder image for Course 3</title>
+  <desc id="desc">Abstract diagram and instruction illustration.</desc>
+  <defs>
+    <linearGradient id="teach-three" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e0c3fc" />
+      <stop offset="100%" stop-color="#8ec5fc" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#teach-three)" />
+  <circle cx="220" cy="230" r="92" fill="#f8f5ff" opacity="0.92" />
+  <path d="M180 240 L220 185 L270 250 L315 210" fill="none" stroke="#6d5ba6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="410" y="145" width="220" height="34" rx="10" fill="#f8f5ff" opacity="0.92" />
+  <rect x="410" y="205" width="180" height="34" rx="10" fill="#f8f5ff" opacity="0.82" />
+  <rect x="410" y="265" width="250" height="34" rx="10" fill="#f8f5ff" opacity="0.72" />
+  <text x="60" y="440" font-family="Arial, sans-serif" font-size="56" font-weight="700" fill="#5d4c96">Course 3</text>
+</svg>
