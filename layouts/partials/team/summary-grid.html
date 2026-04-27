@@ -18,7 +18,7 @@
     <div class="flex items-center flex-wrap mt2 mb1">
       <h1 class="f3 f4-l ma0 lh-title fw4"><a href="{{ $page.RelPermalink }}" class="db">{{ $page.Title | markdownify }}</a></h1>
       {{ with $page.Params.links }}
-      <div class="flex items-center ml2 f5">
+      <div class="flex items-center ml2 f4">
         {{ range . }}
           {{ $pack := or .icon_pack "fas" }}
           {{ $pack_prefix := $pack }}
