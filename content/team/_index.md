@@ -16,7 +16,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false
-
+ 
 cascade:
   show_author_byline: false
   show_post_date: false
