@@ -17,6 +17,9 @@ facilities:
   - title: "Equipment 3"
     image: "Equipment-3.png"
     description: "Equipment 3 is a placeholder collaborative work area designed for imaging, analysis, prototyping, and shared experimental development."
+  - title: "Dell Pro Max with GB10"
+    image: "GB10.jpg"
+    description: "Dell Pro Max with GB10 is a compact, desktop high-performance computer for AI training and applications, powered by NVIDIA DGX."    
 ---
 
 ** No content for the facility index. This file provides front matter for the facility listing page. **
