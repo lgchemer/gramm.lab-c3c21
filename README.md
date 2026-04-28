@@ -384,4 +384,5 @@ formspree_form_id: <hashid>
 ```
 Test edit by Dipak Dahal
 T e s t   r e p o s i t o r y   a c c e s s   b y   d d a h a l  
+ V e r i f i e d   e m a i l   t e s t   c o m m i t  
  
